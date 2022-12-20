@@ -65,6 +65,7 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
+          {to: '/start-here!', label: 'Start here!', position: 'left'},
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/jnode-revisited/jnode-revisited.github.io',
