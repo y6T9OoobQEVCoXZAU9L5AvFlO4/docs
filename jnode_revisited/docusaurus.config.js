@@ -7,7 +7,6 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Documentation',
-  tagline: 'Dinosaurs are cool',
   url: 'https://docs-jnode-revisited.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
