@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Documentation',
   tagline: 'Welcome to JNode.org, the website of the Java New Operating System Design Effort.',
-  url: 'https://docs-jnode-revisited.netlify.app',
+  url: 'https://place.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
