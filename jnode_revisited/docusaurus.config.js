@@ -58,10 +58,6 @@ const config = {
     ({
       navbar: {
         title: 'Documentation',
-        logo: {
-          alt: 'Jnode Revisited Logo',
-          src: 'img/logo.svg',
-        },
         items: [
           {
             type: 'doc',
